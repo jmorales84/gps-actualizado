@@ -10,16 +10,14 @@
   --surf3:    #acbba8;   /* hover */
   --surf4:    #aeb8ae;   /* activo */
 
-  /* ===== PALETA DE LA IMAGEN ===== */
-
   /* Verde menta */
-  --teal:        #9bbe95;
+  --teal:        #4b6945;
   --teal-dim:    #8eae89;
   --teal-glow:   rgba(179,210,174,.25);
   --teal-border: rgba(179,210,174,.45);
 
   /* Verde salvia */
-  --mauve:       #98a995;
+  --mauve:       #54767a;
   --mauve-dim:   #8f9f8b;
   --mauve-glow:  rgba(168,184,165,.25);
   --mauve-border:rgba(168,184,165,.45);
